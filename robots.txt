@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeichaiphe.interview.fail/sitemap.xml
